@@ -37,6 +37,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 ### Itinerary & Logistics
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
 *   **Roadtrippers** - Ideal for vehicular route planning and roadside attractions.
+*   **[Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html)** - Drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions. No Chinese needed.
 
 ---
 
