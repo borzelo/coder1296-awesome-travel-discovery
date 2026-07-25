@@ -39,6 +39,9 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 *   **Roadtrippers** - Ideal for vehicular route planning and roadside attractions.
 *   **[Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html)** - Drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions. No Chinese needed.
 
+### Entry Readiness & Local Setup
+*   **[YouChina](https://you-china.com/en/checklist)** - Free pre-trip checklists for China covering entry, transit, payment setup, connectivity, airports, and essential apps.
+
 ---
 
 ## 📈 Contributing
