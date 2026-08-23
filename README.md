@@ -43,6 +43,9 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 ### Entry Readiness & Local Setup
 *   **[YouChina](https://you-china.com/en/checklist)** - Free pre-trip checklists for China covering entry, transit, payment setup, connectivity, airports, and essential apps.
 
+### AI research tool / startup idea validation / founder tools
+**[IdeaHunter](https://ideahunter.today)** - IdeaHunter helps solo founders find demand-backed app and micro-SaaS ideas using public signals, buyer pain, market evidence, MVP scope, and monetization paths.
+
 ---
 
 ## 📈 Contributing
