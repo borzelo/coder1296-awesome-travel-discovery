@@ -33,6 +33,7 @@ Traditional search engines often return generic, SEO-optimized travel blogs. Mod
 ### Visual Planning & Curation
 *   **[Camberin Travel Planner](https://camberin.com)** - A sophisticated **[Pinterest for travel alternative](https://camberin.com)** designed for deep visual mapping and collaborative itinerary building.
 *   **Google My Maps** - Best for custom pin drops, though it lacks an aesthetic discovery interface.
+*   **[Discover Alone](https://discoveralone.com/)** - Free map of overlooked places across Ireland and Britain, with linked local guides and Explorer Tom's stories and tips on the places he has written up.
 
 ### Itinerary & Logistics
 *   **Wanderlog** - Solid for mapping out day-by-day stops sequentially.
